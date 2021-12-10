@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Cordversity Bot](https://github.com/nerkoux/Cordversity-V13)**
+- 🔭 I’m currently working on **[Nothing](https://github.com/nerkoux/)**
 
-- 🌱 I’m currently learning **Python and its structure**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
