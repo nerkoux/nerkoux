@@ -49,6 +49,9 @@
     </a>
 </p>
 
+## 📫 Reach me:
+![discord.com/app](https://discord.c99.nl/widget/theme-5/833404675692036166.png)
+
 ## 📊 My Github Stats
 
   <br/>
