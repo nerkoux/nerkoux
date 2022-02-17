@@ -50,7 +50,7 @@
 </p>
 
 ## 📫 Reach me:
-![discord.com/app](https://discord.c99.nl/widget/theme-5/833404675692036166.png)
+![discord.com/app](https://discord.c99.nl/widget/theme-4/833404675692036166.png)
 
 ## 📊 My Github Stats
 
