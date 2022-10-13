@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Nothing](https://github.com/nerkoux/)**
+- 🔭 I’m currently working on **[Archic](https://github.com/nerkoux/Archic)**
 
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://akshatmehta.xyz)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio.akshatmehta.in)**
 
-- 📫 How to reach me **mail@vexr.me**
+- 📫 How to reach me **me@akshatmehta.in**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
