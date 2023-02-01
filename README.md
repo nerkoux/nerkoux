@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio.akshatmehta.in)**
 
-- 📫 How to reach me **me@akshatmehta.in**
+- 📫 How to reach me **hello@akshatmehta.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
