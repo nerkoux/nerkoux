@@ -49,9 +49,11 @@
     </a>
 </p>
 
-## 📫 Reach me:
-[![Discord Handle](https://lanyard.cnrad.dev/api/833404675692036166)](https://discord.com/users/833404675692036166)
 
+## 📫 Reach me:
+<p align="center">
+[![Discord Handle](https://lanyard.cnrad.dev/api/833404675692036166)](https://discord.com/users/833404675692036166)
+</p>
 
 ## 📊 My Github Stats
 
