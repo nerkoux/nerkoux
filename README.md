@@ -50,7 +50,8 @@
 </p>
 
 ## 📫 Reach me:
-![discord.com/app](https://discord.c99.nl/widget/theme-4/833404675692036166.png)
+[![Discord Handle](https://lanyard.cnrad.dev/api/833404675692036166)](https://discord.com/users/833404675692036166)
+
 
 ## 📊 My Github Stats
 
