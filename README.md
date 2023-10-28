@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio.akshatmehta.in)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://akshatmehta.com)**
 
 - 📫 How to reach me **hello@akshatmehta.com**
 
