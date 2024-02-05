@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nerko</h1>
-<h3 align="center">I'm a passionate Developer from India.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=92F765&center=true&vCenter=true&random=false&width=435&lines=A+Dev+Student+from+Jaipur%2CRajasthan;Who+loves+Valorant+all+day;and+maybe+some+video+editing;and+also+music+production%3F+;Geez%F0%9F%AB%A3)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
