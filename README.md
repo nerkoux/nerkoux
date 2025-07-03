@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AKSHAT%20MEHTA&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Code%20Wizard%20•%20Digital%20Architect&descAlignY=51&descAlign=50&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234567,100:FF006A&height=300&section=header&text=AKSHAT%20MEHTA&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Code%20Wizard%20•%20Digital%20Architect&descAlignY=51&descAlign=50&animation=fadeIn" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+THE+FUTURE;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+THE+FUTURE;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -127,6 +127,10 @@ const akshat = {
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful Line"/>
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -145,6 +149,10 @@ const akshat = {
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nerkoux&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful Line"/>
 </div>
 
 ## 🤝 Connect With Me
