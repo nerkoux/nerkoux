@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="Akshat Mehta Banner"/>
+  <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Akshat%20Mehta&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Excellence&descAlignY=55&descAlign=center" alt="Akshat Mehta Banner"/>
 </div>
 
 <h1 align="center">
