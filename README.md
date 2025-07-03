@@ -290,8 +290,6 @@ const users = await api.getUsers(1, 20);
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 > **"The right tool for the right job, with mastery in the fundamentals and curiosity for the cutting edge."**
 
 ### 🎨 Frontend Development
