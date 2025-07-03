@@ -1,21 +1,19 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="Akshat Mehta Banner"/>
-</div>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> 
-  Hey there! I'm Akshat Mehta
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Jaipur%2C+Rajasthan;Passionate+about+Web+Development+%26+Open+Source;Love+Gaming%2C+Fitness%2C+and+Creative+Content;Building+Amazing+Digital+Experiences!" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AKSHAT%20MEHTA&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Code%20Wizard%20•%20Digital%20Architect&descAlignY=51&descAlign=50&animation=twinkling" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerkoux&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/nerkoux?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/nerkoux?label=Stars&style=social" alt="GitHub Stars"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+THE+FUTURE;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful Line"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nerkoux&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/nerkoux?label=FOLLOWERS&style=for-the-badge&color=4ecdc4" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/nerkoux?label=STARS&style=for-the-badge&color=ffe66d" alt="GitHub Stars"/>
 </div>
 
 <br>
