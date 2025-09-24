@@ -2,9 +2,9 @@
   <img src="https://capsule-generator.akszt.dev/?name=Akshat+Mehta&desc=Full+Stack+Developer&height=300&titleX=50&titleY=40&descX=50&descY=55&color=neon-blue&animation=wave&fontSize=80&descFontSize=28" alt="Header"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+THE+FUTURE;🎯+ONE+LINE+AT+A+TIME" alt="Typing SVG"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful Line"/>
