@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-generator.akszt.dev/?name=Akshat+Mehta&desc=Full+Stack+Developer&height=300&titleX=50&titleY=50&descX=50&descY=65&color=ocean&animation=none&fontSize=80&descFontSize=32" alt="Header"/>
+  <img src="https://capsule-generator.akszt.dev/?name=Akshat+Mehta&desc=Full+Stack+Developer&height=300&titleX=50&titleY=40&descX=50&descY=55&color=neon-blue&animation=wave&fontSize=80&descFontSize=28" alt="Header"/>
 </div>
 
 <div align="center">
