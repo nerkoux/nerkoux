@@ -27,7 +27,7 @@ const akshat = {
     location: "Jaipur, Rajasthan 🇮🇳",
     role: "Full Stack Developer & Student",
     
-    currentlyWorking: ["Archic", "Personal Portfolio", "Open Source Projects"],
+    currentlyWorking: ["vexr.dev", "Personal Portfolio", "Open Source Projects"],
     currentlyLearning: ["C++", "Advanced React Patterns", "Cloud Architecture"],
     lookingToCollaborate: ["Web Applications", "Open Source", "Innovative Projects"],
     
@@ -100,28 +100,28 @@ const akshat = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏗️ Archic</h3>
+        <h3 align="center">vexr.dev</h3>
         <div align="center">
-          <a href="https://github.com/nerkoux/Archic" target="_blank">
+          <a href="https://github.com/nerkoux/vexr.dev" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
-          <a href="https://archic.app" target="_blank">
+          <a href="https://vexr.dev" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"/>
           </a>
         </div>
-        <p align="center">A modern architecture and construction management platform built with React and Node.js. Features project management, real-time collaboration, and comprehensive reporting tools.</p>
+        <p align="center">Platform where you can get your free subdomain with unrestricted dns management.</p>
       </td>
       <td width="50%">
-        <h3 align="center">💼 Personal Portfolio</h3>
+        <h3 align="center">EasyNGINX</h3>
         <div align="center">
-          <a href="https://github.com/nerkoux/portfolio" target="_blank">
+          <a href="https://github.com/nerkoux/EasyNGINX" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
-          <a href="https://akshatmehta.com" target="_blank">
+          <a href="https://easynginx.akshatmehta.com" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo"/>
           </a>
         </div>
-        <p align="center">My personal portfolio showcasing my projects, skills, and experience. Built with modern web technologies and optimized for performance and user experience.</p>
+        <p align="center">A better way to manage NGINX those who are comfortable and don't want to run same commands again and again.</p>
       </td>
     </tr>
   </table>
