@@ -146,10 +146,9 @@ const akshat = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nerkoux&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nerkoux&theme=onedark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/nerkoux/nerkoux/output/snake.svg)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful Line"/>
@@ -175,10 +174,6 @@ const akshat = {
   </a>
 </div>
 
-### 🎮 Discord Presence
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/833404675692036166" alt="Discord Presence"/>
-</div>
 
 ## 💝 Support My Work
 
