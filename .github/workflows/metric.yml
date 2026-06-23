@@ -3,8 +3,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,14 +14,61 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- core ---
           user: nerkoux
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_padding: 10
+
+          # --- isometric calendar ---
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --- languages ---
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+
+          # --- achievements ---
           plugin_achievements: yes
           plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
+
+          # --- follow-up (PRs & issues) ---
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
+
+          # --- notable contributions ---
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+          # --- habits ---
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # --- activity ---
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: push, pullrequest, release, issue
+
+          # --- stars ---
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          # --- lines changed ---
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+
+          # --- output ---
           filename: metrics.svg
